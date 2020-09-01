@@ -9,6 +9,7 @@
 ![shoppinglist](https://user-images.githubusercontent.com/68219486/91831287-d9a93180-ec7e-11ea-9665-6f2a7784dbd2.JPG)
 ![shoppingDelete](https://user-images.githubusercontent.com/68219486/91831291-db72f500-ec7e-11ea-87f7-355d48cf9c99.JPG)
 
+#### Project URL: https://jjongpang.github.io/js-shoppingList-project/
 
 
 ## Note
