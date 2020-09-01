@@ -16,7 +16,7 @@ function onAdd() {
     input.focus();
 }
 
-let id = 0 //UUID
+let id = 0 
 
 function createItem(text) {
     const itemRow = document.createElement('li');
