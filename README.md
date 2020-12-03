@@ -1,8 +1,8 @@
 # 쇼핑 목록앱 만들기
 
 ## 구현할 기능 목록
-+ +버튼 클릭시 쇼핑 리스트 추가
-+ 'Enter' key event 발생시 쇼핑 리스트 추가
++ + 버튼 클릭시 쇼핑 리스트 추가
++ 'Enter' key-press event 발생시 쇼핑 리스트 추가
 + 삭제 버튼 클릭시 쇼핑 리스트 삭제
 
 ## 결과물
@@ -10,7 +10,6 @@
 ![shoppingDelete](https://user-images.githubusercontent.com/68219486/91831291-db72f500-ec7e-11ea-87f7-355d48cf9c99.JPG)
 
 #### Project URL: https://jjongpang.github.io/js-shoppingList-project/
-
 
 ## Note
 #### 이벤트 위임
